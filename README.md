@@ -10,9 +10,7 @@ shell. No server, no account; your files stay on your device.
 
 > ## ⚠️ Experimental — use at your own risk
 >
-> Pokynk is a personal experiment, **not a professional product**. It was written
-> mostly with AI to test what's possible, and audited by a software engineer with
-> about a decade of professional software-development experience. It may lose or
+> Pokynk is a personal experiment, **not a professional product**. It may lose or
 > corrupt your data. The author accepts **no responsibility** for any lost data,
 > lost revenue, or other damages arising from its use.
 
