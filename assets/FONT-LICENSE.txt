@@ -1,0 +1,5 @@
+DejaVu fonts (DejaVuSans.ttf, DejaVuSerif.ttf, DejaVuSansMono.ttf) — the DejaVu
+Fonts project, a derivative of Bitstream Vera Fonts (Bitstream Vera license) +
+Arev fonts. Freely redistributable; see https://dejavu-fonts.github.io/License.html.
+Bundled so the browser shell has text faces (it can't read system fonts like the
+native shell) and a font-family picker (Sans / Serif / Monospace).
